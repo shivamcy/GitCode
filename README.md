@@ -1,47 +1,59 @@
-# GitCode
+Here’s a refined description for **GitCode** that aligns with your vision as a coding problem-solving site:  
 
-## Overview
-GitCode is a web-based application that helps developers efficiently browse, manage, and analyze Git repositories. It provides an intuitive interface to explore repositories, view code changes, and track contributions seamlessly.
+---
 
-## Features
-- **Repository Management:** Easily navigate and explore repositories.
-- **Code Search:** Quickly search for specific code snippets within repositories.
-- **Commit History:** View commit logs and track changes over time.
-- **Branch & Merge Tracking:** Monitor branch activity and pull requests.
-- **Visualization:** Graphical representation of repository contributions and statistics.
+# **GitCode**  
 
-## Technologies Used
-- **Front-End:** HTML, CSS, JavaScript
-- **Back-End:** Node.js, Express.js
-- **Database:** MongoDB
-- **Version Control API:** GitHub API (for repository fetching and management)
+## **Overview**  
+GitCode is an interactive coding platform designed to help developers enhance their problem-solving skills. It provides a seamless experience for solving coding challenges, contributing to problems, and tracking progress with leaderboards and rankings.  
 
-## Installation
-1. Clone the repository:
+## **Features**  
+✅ **User Authentication** – Secure signup/login system.  
+✅ **Solve Problems** – Practice coding problems with an integrated compiler.  
+✅ **Add New Problems** – Contribute by adding new challenges.  
+✅ **Contribute to Existing Problems** – Improve and refine existing problems.  
+✅ **Leaderboard** – Compete with others and track rankings.  
+✅ **Rank System** – Earn ranks based on performance.  
+✅ **Integrated Compiler** – Write and test code within the platform.  
+
+## **Technologies Used**  
+🔹 **Front-End**: HTML, CSS, JavaScript  
+🔹 **Back-End**: Node.js, Express.js  
+🔹 **Database**: MongoDB  
+🔹 **Compiler Integration**: (Planned, e.g., Judge0 API)  
+
+## **Installation**  
+Clone the repository:  
+```sh
+git clone https://github.com/shivamcy/GitCode.git
+```  
+Navigate to the project folder:  
+```sh
+cd GitCode
+```  
+Install dependencies:  
+```sh
+npm install
+```  
+Start the application:  
+```sh
+npm start
+```  
+Open your browser and visit: **[http://localhost:3000](http://localhost:3000)**  
+
+## **Contribution**  
+Contributions are welcome! To contribute:  
+1. Fork the repository.  
+2. Create a new branch:  
    ```sh
-   git clone https://github.com/shivamcy/GitCode.git
-   ```
-2. Navigate to the project folder:
+   git checkout -b feature-branch
+   ```  
+3. Make your changes and commit:  
    ```sh
-   cd GitCode
-   ```
-3. Install dependencies:
+   git commit -m "Added new feature"
+   ```  
+4. Push to your fork:  
    ```sh
-   npm install
-   ```
-4. Start the application:
-   ```sh
-   npm start
-   ```
-5. Open your browser and visit `http://localhost:3000`.
-
-## Contribution
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch`
-3. Make your changes and commit: `git commit -m 'Added new feature'`
-4. Push to your fork: `git push origin feature-branch`
-5. Create a pull request.
-
-
-
+   git push origin feature-branch
+   ```  
+5. Create a pull request.  
