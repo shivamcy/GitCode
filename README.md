@@ -1,8 +1,4 @@
-Here’s a refined description for **GitCode** that aligns with your vision as a coding problem-solving site:  
 
----
-
-# **GitCode**  
 
 ## **Overview**  
 GitCode is an interactive coding platform designed to help developers enhance their problem-solving skills. It provides a seamless experience for solving coding challenges, contributing to problems, and tracking progress with leaderboards and rankings.  
