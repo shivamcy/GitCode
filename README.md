@@ -27,7 +27,7 @@ Navigate to the project folder:
 ```sh
 cd GitCode
 ```  
-Install dependencies:  
+Install dependencies :  
 ```sh
 npm install
 ```  
@@ -52,4 +52,5 @@ Contributions are welcome! To contribute:
    ```sh
    git push origin feature-branch
    ```  
-5. Create a pull request.  
+5. Create a pull request.
+
