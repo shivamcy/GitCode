@@ -14,7 +14,7 @@ app.use(bodyParser.urlencoded({ extended: true }))
 // signup was giving problem so added this
 const corsOptions={
     origin: '*',
-    credentials: true,            //access-control-allow-credentials:true
+    credentials: true,            //access-control-allow- credentials:true
     optionSuccessStatus: 200,
 }
 app.use(cors(corsOptions))
