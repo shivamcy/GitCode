@@ -232,7 +232,7 @@ a {
 }
 
 .button button {
-  /* background-color: #5b6199; */
+  
   background: linear-gradient(to right, #6c5ce7, #764ba2);
   border-radius: 30px;
   color: rgb(254, 254, 254);

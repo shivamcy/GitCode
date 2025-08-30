@@ -71,9 +71,6 @@ const Contact = () => {
                         <a href="https://twitter.com/yourprofile" target="_blank" rel="noopener noreferrer">
                             <FontAwesomeIcon icon={faTwitter} className={iconSizeClass} />
                         </a>
-                        <a href="https://www.linkedin.com/in/akash-sharma-1b4560220/" target="_blank" rel="noopener noreferrer">
-                            <FontAwesomeIcon icon={faLinkedin} className={iconSizeClass} />
-                        </a>
                     </div>
                 </center>
             </footer> */}
