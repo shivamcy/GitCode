@@ -38,7 +38,7 @@ const problemSchema=new Schema({
         type: String,
         required: true
     },
-    Test_cases: [testcase], //for now taking string to test adding problem to database
+    Test_cases: [testcase], 
     Hidden_Test_cases: [testcase],
     Total_Submissions: {
         type: Number,
